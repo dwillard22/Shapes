@@ -1,0 +1,15 @@
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\bin\Debug\net6.0\Shapes1.exe
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\bin\Debug\net6.0\Shapes1.deps.json
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\bin\Debug\net6.0\Shapes1.runtimeconfig.json
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\bin\Debug\net6.0\Shapes1.dll
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\bin\Debug\net6.0\Shapes1.pdb
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.csproj.AssemblyReference.cache
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.AssemblyInfoInputs.cache
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.AssemblyInfo.cs
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.csproj.CoreCompileInputs.cache
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.dll
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\refint\Shapes1.dll
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.pdb
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\Shapes1.genruntimeconfig.cache
+C:\Users\domin\OneDrive\IT-145\Shapes\Shapes1\obj\Debug\net6.0\ref\Shapes1.dll
